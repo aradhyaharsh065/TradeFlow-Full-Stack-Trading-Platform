@@ -200,12 +200,29 @@ app.get("/allHoldings", async (req, res) => {
 //   let allPositions = await PositionsModel.find({});
 //   res.json(allPositions);
 // });
-app.get("/allPositions", async (req, res) => {
-  console.log("Inside allPositions route");
+// app.get("/allPositions", async (req, res) => {
+//   console.log("Inside allPositions route");
 
-  res.json({
-    message: "Route reached",
-  });
+//   res.json({
+//     message: "Route reached",
+//   });
+// });
+app.get("/allPositions", async (req, res) => {
+  try {
+    console.log("Inside allPositions route");
+
+    const allPositions = await PositionsModel.find({});
+
+    console.log(allPositions);
+
+    res.json(allPositions);
+  } catch (err) {
+    console.error(err);
+
+    res.status(500).json({
+      message: err.message,
+    });
+  }
 });
 
 app.post("/newOrder", async (req, res) => {
