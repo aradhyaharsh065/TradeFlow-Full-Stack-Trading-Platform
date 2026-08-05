@@ -23,7 +23,10 @@ function Login() {
     try {
       console.log("STEP 2: Sending request...");
 
-      const response = await axios.post("http://13.218.250.156/login", user);
+      const response = await axios.post(
+        "https://tradeflow-full-stack-trading-platform.onrender.com/login",
+        user,
+      );
 
       console.log("STEP 3: Response received");
       console.log(response.data);

@@ -19,7 +19,10 @@ function SignUp() {
     e.preventDefault();
 
     try {
-      const response = await axios.post("http://13.218.250.156/signup", user);
+      const response = await axios.post(
+        "https://tradeflow-full-stack-trading-platform.onrender.com/signup",
+        user,
+      );
 
       alert(response.data.message);
 
