@@ -12,12 +12,15 @@ const BuyActionWindow = ({ uid }) => {
   const [stockPrice, setStockPrice] = useState(0.0);
 
   const handleBuyClick = () => {
-    axios.post("http://13.218.250.156/newOrder", {
-      name: uid,
-      qty: stockQuantity,
-      price: stockPrice,
-      mode: "BUY",
-    });
+    axios.post(
+      "https://tradeflow-full-stack-trading-platform.onrender.com/newOrder",
+      {
+        name: uid,
+        qty: stockQuantity,
+        price: stockPrice,
+        mode: "BUY",
+      },
+    );
 
     GeneralContext.closeBuyWindow();
   };
