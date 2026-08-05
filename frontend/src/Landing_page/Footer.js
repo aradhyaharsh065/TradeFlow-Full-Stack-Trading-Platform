@@ -6,7 +6,11 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-            <img src="media/logo.svg" style={{ width: "50%" }} />
+            <img
+              src="media/logo.svg"
+              alt="TradeFlow Logo"
+              style={{ width: "50%" }}
+            />
             <p>
               &copy; 2010 - 2026, Zerodha Broking Ltd.
               <br />
@@ -15,103 +19,103 @@ function Footer() {
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               About
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Philosophy
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Press & media
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Careers
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Zerodha Cares (CSR)
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Zerodha.tech
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="##" className="text-decoration-none text-muted">
               Open source
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Referral Program
             </a>
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Contact us
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Support portal
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               How to file a complaint?
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Status of your complaints
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Bulletin
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Circular
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Z-Connect blog
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Downloads
             </a>
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Open demat account
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Minor demat account
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               NRI demat account
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               HUF demat account
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Commodity
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Dematerialisation
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Fund transfer
             </a>
             <br />
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               MTF
             </a>
           </div>
@@ -199,47 +203,47 @@ function Footer() {
             (RBI).
           </p>
           <div className="d-flex flex-wrap justify-content-center gap-4 mt-4 mb-4">
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               NSE
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               BSE
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               MCX
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               MSEI
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Terms &amp; conditions
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Policies &amp; procedures
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Privacy policy
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Disclosure
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               For investor's attention
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Investor charter
             </a>
 
-            <a href="" className="text-decoration-none text-muted">
+            <a href="#" className="text-decoration-none text-muted">
               Sitemap
             </a>
           </div>
