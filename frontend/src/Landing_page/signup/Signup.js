@@ -19,7 +19,7 @@ function SignUp() {
     e.preventDefault();
 
     try {
-      const response = await axios.post("http://localhost:3002/signup", user);
+      const response = await axios.post("http://13.218.250.156/signup", user);
 
       alert(response.data.message);
 
