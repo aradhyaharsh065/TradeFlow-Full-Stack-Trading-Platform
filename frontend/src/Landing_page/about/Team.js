@@ -15,7 +15,7 @@ function Team() {
           <img
             src="media/nithinKamath.jpg"
             style={{ borderRadius: "100%", width: "50%" }}
-          />
+           alt="" />
           <h4 className="text-muted mt-5">Nithin Kamath</h4>
           <h6> Founder, CEO</h6>
         </div>
@@ -35,15 +35,15 @@ function Team() {
 
           <p>
             Connect on{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Homepage
             </a>{" "}
             /{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               TradingQnA
             </a>{" "}
             /{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Twitter
             </a>
           </p>

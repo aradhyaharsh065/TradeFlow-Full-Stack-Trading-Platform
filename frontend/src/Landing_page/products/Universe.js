@@ -11,7 +11,7 @@ function Universe() {
         </p>
 
         <div className="col-4 p-3 mt-5">
-          <img src="media/smallcaseLogo.png" />
+          <img src="media/smallcaseLogo.png"  alt="" />
           <p className="text-small text-muted">
             {" "}
             Thematic investing platform that helps you invest in diversified
@@ -19,11 +19,11 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/streakLogo.png" style={{ width: "35%" }} />
+          <img src="media/streakLogo.png" style={{ width: "35%" }}  alt="" />
           <p className="text-small text-muted">Algo & strategy platform.</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/sensibullLogo.svg" style={{ width: "35%" }} />
+          <img src="media/sensibullLogo.svg" style={{ width: "35%" }}  alt="" />
           <p className="text-small text-muted">
             Options trading platform that lets you create strategies, analyze
             positions, and examine data points like open interest, FII/DII, and
@@ -31,7 +31,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/zerodhaFundhouse.png" style={{ width: "45%" }} />
+          <img src="media/zerodhaFundhouse.png" style={{ width: "45%" }}  alt="" />
           <p className="text-small text-muted">
             {" "}
             Our asset management venture that is creating simple and transparent
@@ -39,11 +39,11 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/goldenpiLogo.png" />
+          <img src="media/goldenpiLogo.png"  alt="" />
           <p className="text-small text-muted">Bonds trading platform.</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/dittoLogo.png" style={{ width: "25%" }} />
+          <img src="media/dittoLogo.png" style={{ width: "25%" }}  alt="" />
           <p className="text-small text-muted">
             Personalized advice on life and health insurance. No spam and no
             mis-selling..

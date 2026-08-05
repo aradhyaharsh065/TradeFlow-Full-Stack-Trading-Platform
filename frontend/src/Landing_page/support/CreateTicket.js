@@ -41,7 +41,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
           <h4 className="">
-            <i class="fa-solid fa-user"></i> Your Zerodha Account
+            <i className="fa-solid fa-user"></i> Your Zerodha Account
           </h4>
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Login Credentials
@@ -73,7 +73,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
           <h4 className="">
-            <i class="fa-mosaic fa-solid fa-chart-simple"></i> Your Zerodha
+            <i className="fa-mosaic fa-solid fa-chart-simple"></i> Your Zerodha
             Account
           </h4>
           <a href="/" style={{ textDecoration: "none", lineHeight: "2.5" }}>

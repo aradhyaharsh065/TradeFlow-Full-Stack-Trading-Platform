@@ -8,11 +8,11 @@ function Navbar() {
       style={{ backgroundColor: "#fff" }}
     >
       <div className="container p-2">
-        <Link class="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/">
           <img src="media/logo.svg" style={{ width: "25%" }} alt="Logo" />
         </Link>
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent"
@@ -56,7 +56,7 @@ function Navbar() {
               </li>
               {/* 3horizonatal lines at the right top corner */}
               {/* <li className="nav-item ms-3">
-                    <a className="nav-link" href="#">
+                    <a className="nav-link" href="/">
                         <i
                         className="fa fa-bars"
                         aria-hidden="true"

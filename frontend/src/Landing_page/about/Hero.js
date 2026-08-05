@@ -40,7 +40,7 @@ function Hero() {
           </p>
 
           <p>
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               {" "}
               Rainmatter{" "}
             </a>

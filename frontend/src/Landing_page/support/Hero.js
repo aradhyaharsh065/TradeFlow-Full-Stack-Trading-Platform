@@ -5,7 +5,7 @@ function Hero() {
     <section className="container-fluid" id="supportHero">
       <div className="p-5" id="supportWrapper">
         <h4>Support Portal</h4>
-        <a href="#">Track Tickets</a>
+        <a href="/">Track Tickets</a>
       </div>
 
       <div className="row p-5 m-3">
@@ -18,19 +18,19 @@ function Hero() {
 
           <br />
 
-          <a href="#" className="me-3">
+          <a href="/" className="me-3">
             Track account opening
           </a>
 
-          <a href="#" className="me-3">
+          <a href="/" className="me-3">
             Track segment activation
           </a>
 
-          <a href="#" className="me-3">
+          <a href="/" className="me-3">
             Intraday margins
           </a>
 
-          <a href="#" className="me-3">
+          <a href="/" className="me-3">
             Kite user manual
           </a>
         </div>
@@ -40,13 +40,13 @@ function Hero() {
 
           <ol>
             <li>
-              <a href="#" className="me-3">
+              <a href="/" className="me-3">
                 Current Takeovers and Delisting – January 2024
               </a>
             </li>
 
             <li>
-              <a href="#" className="me-3">
+              <a href="/" className="me-3">
                 Latest Intraday leverages – MIS & CO
               </a>
             </li>
