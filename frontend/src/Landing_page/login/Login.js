@@ -36,7 +36,7 @@ function Login() {
       alert("Login Successful!");
 
       window.location.href =
-        "https://trade-flow-full-stack-trading-platform-git-main-aradhyaharsh.vercel.app";
+        "https://trade-flow-full-stack-trading-platf-eight.vercel.app";
     } catch (error) {
       console.log("STEP 4: Error");
       console.log(error);
