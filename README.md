@@ -209,9 +209,3 @@ npm start
 # 📄 License
 
 This project is developed solely for educational and portfolio purposes. It is inspired by Zerodha and is not affiliated with, endorsed by, or associated with Zerodha Broking Ltd. or any of its affiliates.
-
-
-
-# 📄 License
-
-This project is intended for educational and portfolio purposes only.
